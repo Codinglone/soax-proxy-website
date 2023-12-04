@@ -22,7 +22,7 @@ const Navbar = () => {
         <img src={usaFlag} alt={'usa-flag'} className='object-cover h-[20px]' />
         <div className='flex items-center justify-between'>
         <span className='uppercase text-[#243746] font-medium'>EN</span>
-        <RiArrowDropDownLine style={{fontSize: "32px", fontWeight: 700}} />
+        <RiArrowDropDownLine className='cursor-pointer' style={{fontSize: "32px", fontWeight: 700}} />
         </div>
         </div>
     </nav>
