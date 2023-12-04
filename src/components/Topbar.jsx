@@ -4,10 +4,10 @@ const Topbar = () => {
     const [showBanner, setShowBanner] = useState(true)
   return (
     <>
-    {showBanner && (<div className="w-full flex justify-between h-[70px] bg-[#10002B]">
+    {showBanner && (<div className="w-full flex justify-between h-[50px] bg-[#10002B]">
       <div className="flex h-[100%] justify-end w-[70vw] items-center">
         <span className=" text-white">
-          <b className="text-[20px] font-regular">Black Friday Deal</b>: Get 500GB for $400 on any proxy now.{" "}
+          <b className="text-[18px] font-regular">Black Friday Deal</b>: Get 500GB for $400 on any proxy now.{" "}
           <u className="font-bold ml-6 cursor-pointer">Take the deal</u>
         </span>
       </div>
