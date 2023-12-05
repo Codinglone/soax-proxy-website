@@ -1,5 +1,5 @@
 <svg width="81" height="61" viewBox="0 0 81 61" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_86_1088)">
+<g clip-path="url(#clip0_90_1675)">
 <path d="M0.866318 0.336884H80.8663V60.3369H0.866318V0.336884Z" fill="#AA151B"/>
 <path d="M0.866318 15.3369H80.8663V45.3369H0.866318V15.3369Z" fill="#F1BF00"/>
 <path d="M16.7788 26.9994L16.6788 26.9869L16.5538 26.8619L16.4663 26.8119L16.3913 26.7119C16.3913 26.7119 16.3038 26.5744 16.3413 26.4619C16.3788 26.3494 16.4538 26.3119 16.5163 26.2744C16.5774 26.2495 16.64 26.2286 16.7038 26.2119L16.8288 26.1619L16.9913 26.1244L17.0538 26.0869C17.0788 26.0869 17.1413 26.0869 17.1788 26.0619L17.3038 26.0369L17.5038 26.0494H18.1038C18.1538 26.0494 18.2538 26.0869 18.2788 26.0994C18.3612 26.1311 18.4446 26.1603 18.5288 26.1869C18.5913 26.1994 18.7288 26.2244 18.8038 26.2619C18.8663 26.2994 18.9163 26.3494 18.9413 26.3869L19.0038 26.5119V26.6494L18.9413 26.7494L18.8663 26.8744L18.7663 26.9494C18.7663 26.9494 18.7038 27.0119 18.6413 26.9994C18.5913 26.9994 18.0413 26.8994 17.6913 26.8994C17.3413 26.8994 16.7788 27.0119 16.7788 27.0119" fill="#AD1519"/>
@@ -554,81 +554,9 @@
 <path d="M17.0163 27.4119V27.3869" stroke="black" stroke-width="0.025"/>
 <path d="M35.4413 27.4744V27.3369M35.3663 27.4619V27.3369M35.4038 27.4619V27.3369M35.3038 27.4619V27.3369M35.3413 27.4619V27.3369M35.2288 27.4619V27.3369M35.2538 27.4619V27.3369M35.2788 27.4619V27.3369M35.2038 27.4619V27.3369M35.1663 27.4494V27.3494M35.1413 27.4494V27.3494M35.0913 27.4369V27.3619M35.1163 27.4369V27.3619M35.0538 27.4369V27.3619M35.0288 27.4244V27.3744M34.9913 27.4244V27.3744M34.9663 27.4119V27.3869" stroke="black" stroke-width="0.0125"/>
 <path d="M34.9413 27.4119V27.3869" stroke="black" stroke-width="0.025"/>
-<g clip-path="url(#clip1_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip2_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip3_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip4_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip5_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip6_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip7_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip8_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
-<g clip-path="url(#clip9_86_1088)">
-<path d="M0.866318 40.3369H80.8663V60.3369H0.866318V40.3369Z" fill="#FFCE00"/>
-<path d="M0.866318 0.336884H80.8663V20.3369H0.866318V0.336884Z" fill="black"/>
-<path d="M0.866318 20.3369H80.8663V40.3369H0.866318V20.3369Z" fill="#DD0000"/>
-</g>
 </g>
 <defs>
-<clipPath id="clip0_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip1_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip2_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip3_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip4_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip5_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip6_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip7_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip8_86_1088">
-<rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
-</clipPath>
-<clipPath id="clip9_86_1088">
+<clipPath id="clip0_90_1675">
 <rect width="80" height="60" fill="white" transform="translate(0.866318 0.336884)"/>
 </clipPath>
 </defs>
