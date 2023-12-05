@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Topbar = () => {
+const Topbar = ({ onBannerDismiss }) => {
     const [showBanner, setShowBanner] = useState(true)
   return (
     <>
@@ -12,7 +12,15 @@ const Topbar = () => {
         </span>
       </div>
       <div className="flex w-[30%] h-[100%] justify-center items-center">
-        <span className="text-white text-[20px] font-bold cursor-pointer" onClick={() => setShowBanner(false)}>X</span>
+      <span
+        className="text-white text-[20px] font-bold cursor-pointer"
+        onClick={() => {
+          setShowBanner(false);
+          onBannerDismiss();
+        }}
+      >
+        X
+      </span>
       </div>
     </div>)}
     </>

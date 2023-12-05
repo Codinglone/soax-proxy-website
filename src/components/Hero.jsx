@@ -32,31 +32,33 @@ const Hero = () => {
             SOAX Proxy is a powerful proxy solution that bypasses any anti-bot
             system. There is no need for extra steps on your end.
           </p>
-          <button className="w-[200px] my-6 h-[50px] rounded-[24px] text-center text-white bg-[#10002B]">
+          <button className="w-[200px] my-6 h-[50px] rounded-[24px] text-center text-white bg-[#10002B] hover:bg-[#4954DC]">
             Start $1.99 Trial
           </button>
           <div className="w-[96%] flex justify-between">
             <div className="flex items-center justify-between w-[22%]">
               <MdCheckCircle className="text-[#4954DC] text-[20px]" />
               <span className="text-[20px]">
-                <span className="font-semibold">24/7</span> <span className="text-[#243746]">Support</span>
+                <span className="font-semibold">24/7</span>{" "}
+                <span className="text-[#243746]">Support</span>
               </span>
             </div>
 
             <div className="flex items-center justify-between w-[25%]">
               <MdCheckCircle className="text-[#4954DC] text-[20px]" />
               <span className="text-[20px]">
-                <span className="font-semibold">No</span> <span className="text-[#243746]">Set up costs</span>
+                <span className="font-semibold">No</span>{" "}
+                <span className="text-[#243746]">Set up costs</span>
               </span>
             </div>
 
             <div className="flex items-center justify-between w-[25%]">
               <MdCheckCircle className="text-[#4954DC] text-[20px]" />
               <span className="text-[20px]">
-                <span className="font-semibold">Cancel</span> <span className="text-[#243746]">anytime</span>
+                <span className="font-semibold">Cancel</span>{" "}
+                <span className="text-[#243746]">anytime</span>
               </span>
             </div>
-            
           </div>
         </div>
         <div className="w-[43%]">
@@ -66,9 +68,14 @@ const Hero = () => {
 
       <div className="w-full" id="partners">
         <div className="flex justify-center pt-8">
-        <span className="text-[#243746] font-bold text-center">A trusted partner for 2,000+ companies globally</span>
+          <span className="text-[#243746] font-bold text-center">
+            A trusted partner for 2,000+ companies globally
+          </span>
         </div>
-        <div className="w-full flex justify-between px-8 items-center h-40" id="logos">
+        <div
+          className="w-full flex justify-between px-8 items-center h-40"
+          id="logos"
+        >
           <img src={logoOne} className="h-[60px] w-[120px]" alt="forbes" />
           <img src={logoTwo} className="h-[60px] w-[120px]" alt="tech-times" />
           <img src={logoFive} className="h-[50px] w-[300px]" alt="proxway" />
