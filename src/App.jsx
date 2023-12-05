@@ -1,7 +1,8 @@
 import { useRef, useState } from "react"
 import Topbar from "./components/Topbar"
 import Navbar from "./components/Navbar"
-import Hero from "./components/Hero"
+import LandingPage from "./pages/LandingPage";
+import { Routes, Route } from "react-router-dom";
 function App() {
   const [showBanner, setShowBanner] = useState(true);
   const productsRef = useRef(null);
@@ -13,7 +14,9 @@ function App() {
     <>
       <Topbar onBannerDismiss={handleBannerDismiss} />
       <Navbar productsRef={productsRef} />
-      <Hero />
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+      </Routes>
     </>
   )
 }
