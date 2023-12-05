@@ -9,14 +9,14 @@ const Navbar = () => {
             <span id='brand' className='font-bold text-2xl text-[#243746]'>SOAX</span>
         </div>
         <div className='w-[70%] flex justify-between'>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Home</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Products</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Contact</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Privacy-police</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Terms-of-service</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>About-us</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Proxy-location</span>
-          <span className='text-[#243746] font-bold text-[14px] cursor-pointer'>Use-case</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Home</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Products</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Contact</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Privacy-police</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Terms-of-service</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>About-us</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Proxy-location</span>
+          <span className='text-[#243746] font-bold text-[14px] cursor-pointer hover:text-[#4954DC]'>Use-case</span>
         </div>
         <div className='w-[8%] max-h-[100%] flex justify-between items-center'>
         <img src={usaFlag} alt={'usa-flag'} className='object-cover h-[20px]' />
