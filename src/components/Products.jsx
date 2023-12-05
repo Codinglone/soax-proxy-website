@@ -47,7 +47,7 @@ const Products = ({ showProducts, productsRef }) => {
             Get started
           </button>
         </div>
-        <div className="w-[48%] mt-6 pb-4 shadow-md border-t border-[#4954DC] rounded-md bg-white px-4">
+        <div className="w-[48%] mt-8 pb-4 shadow-md border-t border-[#4954DC] rounded-md bg-white px-4">
           <h1 className="font-bold text-2xl my-4 text-[#10002B]">
             Web Scrapper API
           </h1>
@@ -61,7 +61,7 @@ const Products = ({ showProducts, productsRef }) => {
             Get started
           </button>
         </div>
-        <div className="w-[48%] mt-6 pb-4 shadow-md border-t border-[#4954DC] rounded-md bg-white px-4">
+        <div className="w-[48%] mt-8 pb-4 shadow-md border-t border-[#4954DC] rounded-md bg-white px-4">
           <h1 className="font-bold text-2xl my-4 text-[#10002B]">SERP API</h1>
           <p className="text-justify text-[#243746]">
             Optimize your search engine insights with our SERP API. Access
