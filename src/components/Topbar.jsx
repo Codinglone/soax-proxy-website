@@ -13,7 +13,7 @@ const Topbar = ({ onBannerDismiss }) => {
       </div>
       <div className="flex w-[30%] h-[100%] justify-center items-center">
       <span
-        className="text-white text-[20px] font-bold cursor-pointer"
+        className="text-white text-[18px] font-medium cursor-pointer"
         onClick={() => {
           setShowBanner(false);
           onBannerDismiss();
